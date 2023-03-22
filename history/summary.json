@@ -1,5 +1,23 @@
 [
   {
+    "name": "Buddy.Insure (Production)",
+    "url": "$BUDDY_INSURE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "buddy-insure-production",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 373,
+    "timeDay": 373,
+    "timeWeek": 373,
+    "timeMonth": 373,
+    "timeYear": 373,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Buddy-API (Production)",
     "url": "$BUDDY_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 223,
+    "timeDay": 223,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   }
 ]
