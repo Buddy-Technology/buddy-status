@@ -18,30 +18,31 @@ sites:
   - name: Buddy-API (Production)
     url: $BUDDY_API
     maxResponseTime: 10000
-#   - name: Buddy-API (Staging)
-#     url: $STAGING_BUDDY_API
-#     maxResponseTime: 10000
-#   - name: Partner-API (Production)
-#     url: $PARTNER_API
-#     maxResponseTime: 10000
-#   - name: Partner-API (Staging)
-#     url: $STAGING_PARTNER_API
-#     maxResponseTime: 10000
-#   - name: Offer-Element (Production)
-#     url: $OFFER_ELEMENT
-#     maxResponseTime: 10000
-#   - name: Offer-Element (Staging)
-#     url: $STAGING_OFFER_ELEMENT
-#     maxResponseTime: 10000
-#   - name: Second-Chance-Element (Production)
-#     url: $SECOND_CHANCE_ELEMENT
-#     maxResponseTime: 10000
-#   - name: Second-Chance-Element (Staging)
-#     url: $STAGING_SECOND_CHANCE_ELEMENT
-#     maxResponseTime: 10000
+  - name: Buddy-API (Staging)
+    url: $STAGING_BUDDY_API
+    maxResponseTime: 10000
+  - name: Partner-API (Production)
+    url: $PARTNER_API
+    maxResponseTime: 10000
+  - name: Partner-API (Staging)
+    url: $STAGING_PARTNER_API
+    maxResponseTime: 10000
+  - name: Offer-Element (Production)
+    url: $OFFER_ELEMENT
+    maxResponseTime: 10000
+  - name: Offer-Element (Staging)
+    url: $STAGING_OFFER_ELEMENT
+    maxResponseTime: 10000
+  - name: Second-Chance-Element (Production)
+    url: $SECOND_CHANCE_ELEMENT
+    maxResponseTime: 10000
+  - name: Second-Chance-Element (Staging)
+    url: $STAGING_SECOND_CHANCE_ELEMENT
+    maxResponseTime: 10000
 
 assignees:
   - alex-bluetec
+  - individual11
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
