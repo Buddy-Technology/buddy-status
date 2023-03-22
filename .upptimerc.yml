@@ -5,40 +5,40 @@ repo: buddy-status # The name of this repository
 sites:
   - name: Main Site (Production)
     url: $BUDDY_INSURE
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Main Site (Staging)
     url: $STAGING_BUDDY_INSURE
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Customer Site (Production)
     url: $MY_BUDDY_INSURE
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Customer Site (Staging)
     url: $STAGING_MY_BUDDY_INSURE
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Buddy-API (Production)
     url: $BUDDY_API
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Buddy-API (Staging)
     url: $STAGING_BUDDY_API
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Partner-API (Production)
     url: $PARTNER_API
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Partner-API (Staging)
     url: $STAGING_PARTNER_API
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Offer-Element (Production)
     url: $OFFER_ELEMENT
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Offer-Element (Staging)
     url: $STAGING_OFFER_ELEMENT
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Second-Chance-Element (Production)
     url: $SECOND_CHANCE_ELEMENT
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Second-Chance-Element (Staging)
     url: $STAGING_SECOND_CHANCE_ELEMENT
-    maxResponseTime: 10000
+    maxResponseTime: 5000
 
 assignees:
   - alex-bluetec
@@ -50,7 +50,7 @@ status-website:
   # cname: demo.upptime.js.org
   publish: true
   baseUrl: /buddy-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://my.buddy.insure/buddy_lettermark_W.svg # https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Buddy's Asset Status Monitor
   introTitle: "Welcome to Buddy's Uptime Status Monitor!"
   introMessage: This status page displays **real-time** data for Buddy's Staging and Production resources.
