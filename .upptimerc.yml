@@ -54,7 +54,7 @@ status-website:
   name: Buddy's Asset Status Monitor
   introTitle: "Welcome to Buddy's Uptime Status Monitor!"
   introMessage: This status page displays **real-time** data for Buddy's Staging and Production resources.
-  theme: night
+  theme: dark
   navbar:
     - title: Status
       href: /
