@@ -184,19 +184,19 @@
     "url": "$SECOND_CHANCE_ELEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "second-chance-element-production",
-    "status": "degraded",
-    "uptime": "98.78%",
-    "uptimeDay": "80.11%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
-    "time": 3973,
-    "timeDay": 5357,
-    "timeWeek": 4589,
-    "timeMonth": 3973,
-    "timeYear": 3973,
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "76.92%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
+    "time": 3992,
+    "timeDay": 5338,
+    "timeWeek": 4598,
+    "timeMonth": 3992,
+    "timeYear": 3992,
     "dailyMinutesDown": {
-      "2023-04-07": 286
+      "2023-04-07": 332
     }
   },
   {
