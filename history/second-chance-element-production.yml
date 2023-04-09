@@ -1,7 +1,7 @@
 url: $SECOND_CHANCE_ELEMENT
-status: down
+status: degraded
 code: 502
-responseTime: 4977
-lastUpdated: 2023-04-09T13:16:31.876Z
+responseTime: 5084
+lastUpdated: 2023-04-09T13:51:51.469Z
 startTime: Wed Mar 22 2023 14:00:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
