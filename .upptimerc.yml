@@ -40,7 +40,7 @@ sites:
     url: $STAGING_SECOND_CHANCE_ELEMENT
     maxResponseTime: 5000
   - name: Slack Alert Test Site
-    url: http://google.com/
+    url: http://qwiovnewc.com/
 
 assignees:
   - alex-bluetec
