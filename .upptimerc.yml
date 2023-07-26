@@ -39,6 +39,8 @@ sites:
   - name: Second-Chance-Element (Staging)
     url: $STAGING_SECOND_CHANCE_ELEMENT
     maxResponseTime: 5000
+  - name: Slack Alert Test Site
+    url: http://google.com/
 
 assignees:
   - alex-bluetec
