@@ -49,7 +49,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: buddy-status.buddy.insure
   publish: true
-  baseUrl: /buddy-status
+  # baseUrl: /buddy-status
   logoUrl: https://bump.buddyinsurance.com/buddy_lettermark_R.svg # https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Buddy's Asset Status Monitor
   introTitle: "Welcome to Buddy's Uptime Status Monitor!"
