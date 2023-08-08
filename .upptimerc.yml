@@ -51,6 +51,7 @@ status-website:
   publish: true
   # baseUrl: /buddy-status
   logoUrl: https://bump.buddyinsurance.com/buddy_lettermark_R.svg # https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  faviconSvg: https://bump.buddyinsurance.com/buddy_lettermark_R.svg
   name: Buddy's Asset Status Monitor
   introTitle: "Welcome to Buddy's Uptime Status Monitor!"
   introMessage: This status page displays **real-time** data for Buddy's Staging and Production resources.
