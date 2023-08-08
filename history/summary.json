@@ -148,36 +148,40 @@
     "url": "$OFFER_ELEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "offer-element-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 153,
-    "timeWeek": 131,
-    "timeMonth": 288,
+    "timeDay": 171,
+    "timeWeek": 141,
+    "timeMonth": 287,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   },
   {
     "name": "Offer-Element (Staging)",
     "url": "$STAGING_OFFER_ELEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "offer-element-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 223,
-    "timeWeek": 208,
-    "timeMonth": 178,
-    "timeYear": 182,
-    "dailyMinutesDown": {}
+    "time": 183,
+    "timeDay": 224,
+    "timeWeek": 209,
+    "timeMonth": 179,
+    "timeYear": 183,
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   },
   {
     "name": "Second-Chance-Element (Production)",
