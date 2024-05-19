@@ -22,9 +22,9 @@
     "url": "$STAGING_BUDDY_INSURE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-site-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 429,
     "timeMonth": 308,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-19": 0
+    }
   },
   {
     "name": "Customer Site (Production)",
