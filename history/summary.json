@@ -184,18 +184,20 @@
     "url": "$SECOND_CHANCE_ELEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "second-chance-element-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2452,
-    "timeDay": 273,
-    "timeWeek": 1647,
-    "timeMonth": 1973,
-    "timeYear": 2464,
-    "dailyMinutesDown": {}
+    "timeDay": 249,
+    "timeWeek": 1470,
+    "timeMonth": 1919,
+    "timeYear": 2458,
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "Second-Chance-Element (Staging)",
