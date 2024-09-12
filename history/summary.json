@@ -22,19 +22,19 @@
     "url": "$STAGING_BUDDY_INSURE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-site-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 368,
-    "timeWeek": 394,
-    "timeMonth": 393,
+    "time": 339,
+    "timeDay": 338,
+    "timeWeek": 384,
+    "timeMonth": 390,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 5
     }
   },
   {
