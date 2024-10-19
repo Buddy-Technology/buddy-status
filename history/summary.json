@@ -4,18 +4,20 @@
     "url": "$BUDDY_INSURE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-site-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 884,
-    "timeWeek": 947,
-    "timeMonth": 771,
-    "timeYear": 429,
-    "dailyMinutesDown": {}
+    "time": 410,
+    "timeDay": 1247,
+    "timeWeek": 1030,
+    "timeMonth": 798,
+    "timeYear": 433,
+    "dailyMinutesDown": {
+      "2024-10-19": 0
+    }
   },
   {
     "name": "Main Site (Staging)",
@@ -185,7 +187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "second-chance-element-production",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
