@@ -24,9 +24,9 @@
     "slug": "main-site-staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 233,
@@ -34,7 +34,8 @@
     "timeMonth": 310,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-25": 18,
+      "2025-01-24": 3
     }
   },
   {
@@ -44,9 +45,9 @@
     "slug": "customer-site-production",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 177,
@@ -54,7 +55,8 @@
     "timeMonth": 256,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-25": 18,
+      "2025-01-24": 2
     }
   },
   {
@@ -64,9 +66,9 @@
     "slug": "customer-site-staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 300,
     "timeDay": 98,
@@ -74,7 +76,8 @@
     "timeMonth": 249,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-25": 18,
+      "2025-01-24": 2
     }
   },
   {
@@ -84,9 +87,9 @@
     "slug": "buddy-api-production",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 131,
@@ -94,7 +97,8 @@
     "timeMonth": 219,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-25": 18,
+      "2025-01-24": 2
     }
   },
   {
@@ -104,9 +108,9 @@
     "slug": "buddy-api-staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 102,
@@ -114,7 +118,8 @@
     "timeMonth": 213,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-25": 18,
+      "2025-01-24": 2
     }
   },
   {
@@ -124,9 +129,9 @@
     "slug": "partner-api-production",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 195,
     "timeDay": 94,
@@ -134,7 +139,8 @@
     "timeMonth": 202,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-25": 18,
+      "2025-01-24": 2
     }
   },
   {
@@ -144,9 +150,9 @@
     "slug": "partner-api-staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 86,
@@ -154,7 +160,8 @@
     "timeMonth": 201,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-25": 18,
+      "2025-01-24": 2
     }
   },
   {
