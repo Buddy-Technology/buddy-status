@@ -5,40 +5,40 @@ repo: buddy-status # The name of this repository
 sites:
   - name: Main Site (Production)
     url: $BUDDY_INSURE
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Main Site (Staging)
     url: $STAGING_BUDDY_INSURE
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Customer Site (Production)
     url: $MY_BUDDY_INSURE
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Customer Site (Staging)
     url: $STAGING_MY_BUDDY_INSURE
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Buddy-API (Production)
     url: $BUDDY_API
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Buddy-API (Staging)
     url: $STAGING_BUDDY_API
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Partner-API (Production)
     url: $PARTNER_API
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Partner-API (Staging)
     url: $STAGING_PARTNER_API
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Offer-Element (Production)
     url: $OFFER_ELEMENT
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Offer-Element (Staging)
     url: $STAGING_OFFER_ELEMENT
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Second-Chance-Element (Production)
     url: $SECOND_CHANCE_ELEMENT
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Second-Chance-Element (Staging)
     url: $STAGING_SECOND_CHANCE_ELEMENT
-    maxResponseTime: 5000
+    maxResponseTime: 10000
 
 assignees:
   - alex-bluetec
