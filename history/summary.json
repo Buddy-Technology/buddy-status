@@ -4,19 +4,19 @@
     "url": "$BUDDY_INSURE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-site-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 675,
-    "timeWeek": 692,
-    "timeMonth": 705,
+    "timeDay": 670,
+    "timeWeek": 689,
+    "timeMonth": 703,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-02-05": 6
+      "2025-02-05": 0
     }
   },
   {
