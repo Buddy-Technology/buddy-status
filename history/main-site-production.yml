@@ -1,7 +1,7 @@
 url: $BUDDY_INSURE
-status: down
-code: 429
-responseTime: 580
-lastUpdated: 2025-02-05T09:38:26.388Z
+status: up
+code: 200
+responseTime: 882
+lastUpdated: 2025-02-05T09:44:04.599Z
 startTime: 2023-03-22T13:49:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
