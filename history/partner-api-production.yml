@@ -1,7 +1,7 @@
 url: $PARTNER_API
-status: down
-code: 403
-responseTime: 112
-lastUpdated: 2025-02-23T23:08:58.092Z
+status: up
+code: 200
+responseTime: 69
+lastUpdated: 2025-02-23T23:18:25.078Z
 startTime: 2023-03-22T14:00:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
