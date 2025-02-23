@@ -1,7 +1,7 @@
 url: $STAGING_PARTNER_API
-status: up
-code: 200
-responseTime: 90
-lastUpdated: 2025-02-22T23:01:37.285Z
+status: down
+code: 403
+responseTime: 145
+lastUpdated: 2025-02-23T17:56:25.615Z
 startTime: 2023-03-22T14:00:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
